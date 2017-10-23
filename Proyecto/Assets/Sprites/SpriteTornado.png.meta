@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 80b979c44624c9a4faa03358563a5e70
+timeCreated: 1507672970
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteTornado_0
+    21300002: SpriteTornado_1
+    21300004: SpriteTornado_2
+    21300006: SpriteTornado_3
+    21300008: SpriteTornado_4
+    21300010: SpriteTornado_5
+    21300012: SpriteTornado_6
+    21300014: SpriteTornado_7
+    21300016: SpriteTornado_8
+    21300018: SpriteTornado_9
+    21300020: SpriteTornado_10
+    21300022: SpriteTornado_11
+    21300024: SpriteTornado_12
+    21300026: SpriteTornado_13
+    21300028: SpriteTornado_14
+    21300030: SpriteTornado_15
+    21300032: SpriteTornado_16
+    21300034: SpriteTornado_17
+    21300036: SpriteTornado_18
+    21300038: SpriteTornado_19
+    21300040: SpriteTornado_20
+    21300042: SpriteTornado_21
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteTornado_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 612
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 612
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 612
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_3
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 612
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_4
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 612
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_5
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 612
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_6
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 612
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_7
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 612
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 337
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 337
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_10
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 337
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_11
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 337
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_12
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 337
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_13
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 337
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_14
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 337
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 62
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 62
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_17
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 62
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_18
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 62
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_19
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 62
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_20
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 62
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteTornado_21
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 62
+        width: 260
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

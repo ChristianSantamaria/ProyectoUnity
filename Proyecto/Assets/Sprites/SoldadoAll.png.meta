@@ -1,0 +1,1294 @@
+fileFormatVersion: 2
+guid: a87403e86b6fd5740b5bce10fad75459
+timeCreated: 1508491086
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SoldadoAll_0
+    21300002: SoldadoAll_1
+    21300004: SoldadoAll_2
+    21300006: SoldadoAll_3
+    21300008: SoldadoAll_4
+    21300010: SoldadoAll_5
+    21300012: SoldadoAll_6
+    21300014: SoldadoAll_7
+    21300016: SoldadoAll_8
+    21300018: SoldadoAll_9
+    21300020: SoldadoAll_10
+    21300022: SoldadoAll_11
+    21300024: SoldadoAll_12
+    21300026: SoldadoAll_13
+    21300028: SoldadoAll_14
+    21300030: SoldadoAll_15
+    21300032: SoldadoAll_16
+    21300034: SoldadoAll_17
+    21300036: SoldadoAll_18
+    21300038: SoldadoAll_19
+    21300040: SoldadoAll_20
+    21300042: SoldadoAll_21
+    21300044: SoldadoAll_22
+    21300046: SoldadoAll_23
+    21300048: SoldadoAll_24
+    21300050: SoldadoAll_25
+    21300052: SoldadoAll_26
+    21300054: SoldadoAll_27
+    21300056: SoldadoAll_28
+    21300058: SoldadoAll_29
+    21300060: SoldadoAll_30
+    21300062: SoldadoAll_31
+    21300064: SoldadoAll_32
+    21300066: SoldadoAll_33
+    21300068: SoldadoAll_34
+    21300070: SoldadoAll_35
+    21300072: SoldadoAll_36
+    21300074: SoldadoAll_37
+    21300076: SoldadoAll_38
+    21300078: SoldadoAll_39
+    21300080: SoldadoAll_40
+    21300082: SoldadoAll_41
+    21300084: SoldadoAll_42
+    21300086: SoldadoAll_43
+    21300088: SoldadoAll_44
+    21300090: SoldadoAll_45
+    21300092: SoldadoAll_46
+    21300094: SoldadoAll_47
+    21300096: SoldadoAll_48
+    21300098: SoldadoAll_49
+    21300100: SoldadoAll_50
+    21300102: SoldadoAll_51
+    21300104: SoldadoAll_52
+    21300106: SoldadoAll_53
+    21300108: SoldadoAll_54
+    21300110: SoldadoAll_55
+    21300112: SoldadoAll_56
+    21300114: SoldadoAll_57
+    21300116: SoldadoAll_58
+    21300118: SoldadoAll_59
+    21300120: SoldadoAll_60
+    21300122: SoldadoAll_61
+    21300124: SoldadoAll_62
+    21300126: SoldadoAll_63
+    21300128: SoldadoAll_64
+    21300130: SoldadoAll_65
+    21300132: SoldadoAll_66
+    21300134: SoldadoAll_67
+    21300136: SoldadoAll_68
+    21300138: SoldadoAll_69
+    21300140: SoldadoAll_70
+    21300142: SoldadoAll_71
+    21300144: SoldadoAll_72
+    21300146: SoldadoAll_73
+    21300148: SoldadoAll_74
+    21300150: SoldadoAll_75
+    21300152: SoldadoAll_76
+    21300154: SoldadoAll_77
+    21300156: SoldadoAll_78
+    21300158: SoldadoAll_79
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SoldadoAll_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1850
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1847
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1847
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1845
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_4
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1844
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_5
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1843
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_6
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1843
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_7
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1841
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_8
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1841
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_9
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1839
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_10
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1837
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_11
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1835
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1666
+        width: 65
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1665
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1666
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_15
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1669
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_16
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1669
+        width: 71
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_17
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1672
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_18
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1672
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_19
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1672
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_20
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1673
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_21
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1675
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_22
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1675
+        width: 65
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_23
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1677
+        width: 67
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1471
+        width: 78
+        height: 93
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1467
+        width: 88
+        height: 99
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_26
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1466
+        width: 131
+        height: 114
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_27
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1465
+        width: 158
+        height: 115
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_28
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1467
+        width: 162
+        height: 116
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_29
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1469
+        width: 168
+        height: 119
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_30
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1470
+        width: 168
+        height: 123
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_31
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1471
+        width: 167
+        height: 43
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_32
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1471
+        width: 176
+        height: 34
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_33
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1471
+        width: 180
+        height: 39
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_34
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1317
+        width: 183
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_35
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1317
+        width: 183
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_36
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1317
+        width: 185
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_37
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1317
+        width: 184
+        height: 67
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_38
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1317
+        width: 187
+        height: 66
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_39
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1318
+        width: 185
+        height: 67
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_40
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1318
+        width: 185
+        height: 67
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_41
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1315
+        width: 188
+        height: 67
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_42
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 1313
+        width: 186
+        height: 66
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_43
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1127
+        width: 184
+        height: 67
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_44
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1127
+        width: 184
+        height: 70
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_45
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1127
+        width: 188
+        height: 61
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_46
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1127
+        width: 188
+        height: 83
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_47
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1127
+        width: 191
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_48
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1127
+        width: 190
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_49
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1127
+        width: 191
+        height: 36
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_50
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1127
+        width: 191
+        height: 36
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 969
+        width: 202
+        height: 39
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_52
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 793
+        width: 72
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_53
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 790
+        width: 82
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_54
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 790
+        width: 123
+        height: 110
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_55
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 792
+        width: 152
+        height: 106
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_56
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 789
+        width: 155
+        height: 105
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_57
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 791
+        width: 163
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_58
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 792
+        width: 166
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_59
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 791
+        width: 166
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_60
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 791
+        width: 177
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 792
+        width: 180
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_62
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 639
+        width: 182
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_63
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 639
+        width: 184
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_64
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 639
+        width: 186
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_65
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 639
+        width: 184
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_66
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 638
+        width: 187
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_67
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 639
+        width: 184
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_68
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 640
+        width: 185
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_69
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 639
+        width: 189
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_70
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 636
+        width: 185
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_71
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 449
+        width: 186
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_72
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 449
+        width: 184
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_73
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 449
+        width: 188
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_74
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 449
+        width: 189
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_75
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 449
+        width: 192
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_76
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 449
+        width: 192
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_77
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 449
+        width: 190
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 450
+        width: 191
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SoldadoAll_79
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 292
+        width: 196
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

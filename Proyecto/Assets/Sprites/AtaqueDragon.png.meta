@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: a99718dc02bd78a46bcb4f2449674668
+timeCreated: 1507677081
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AtaqueDragon_0
+    21300002: AtaqueDragon_1
+    21300004: AtaqueDragon_2
+    21300006: AtaqueDragon_3
+    21300008: AtaqueDragon_4
+    21300010: AtaqueDragon_5
+    21300012: AtaqueDragon_6
+    21300014: AtaqueDragon_7
+    21300016: AtaqueDragon_8
+    21300018: AtaqueDragon_9
+    21300020: AtaqueDragon_10
+    21300022: AtaqueDragon_11
+    21300024: AtaqueDragon_12
+    21300026: AtaqueDragon_13
+    21300028: AtaqueDragon_14
+    21300030: AtaqueDragon_15
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AtaqueDragon_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 703
+        width: 165
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueDragon_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 696
+        width: 217
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueDragon_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 692
+        width: 236
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueDragon_3
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 688
+        width: 232
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueDragon_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 447
+        width: 219
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueDragon_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 448
+        width: 237
+        height: 207
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueDragon_6
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 460
+        width: 223
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueDragon_7
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 460
+        width: 217
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueDragon_8
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 279
+        width: 146
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueDragon_9
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 271
+        width: 226
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueDragon_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 268
+        width: 243
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueDragon_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 264
+        width: 243
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueDragon_12
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 21
+        width: 220
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueDragon_13
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 26
+        width: 229
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueDragon_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 33
+        width: 225
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueDragon_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 35
+        width: 219
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
