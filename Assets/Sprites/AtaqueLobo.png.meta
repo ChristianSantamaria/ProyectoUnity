@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: bce92b3fa42937b43bc42303ffd44aff
+timeCreated: 1508427509
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AtaqueLobo_0
+    21300002: AtaqueLobo_1
+    21300004: AtaqueLobo_2
+    21300006: AtaqueLobo_3
+    21300008: AtaqueLobo_4
+    21300010: AtaqueLobo_5
+    21300012: AtaqueLobo_6
+    21300014: AtaqueLobo_7
+    21300016: AtaqueLobo_8
+    21300018: AtaqueLobo_9
+    21300020: AtaqueLobo_10
+    21300022: AtaqueLobo_11
+    21300024: AtaqueLobo_12
+    21300026: AtaqueLobo_13
+    21300028: AtaqueLobo_14
+    21300030: AtaqueLobo_15
+    21300032: AtaqueLobo_16
+    21300034: AtaqueLobo_17
+    21300036: AtaqueLobo_18
+    21300038: AtaqueLobo_19
+    21300040: AtaqueLobo_20
+    21300042: AtaqueLobo_21
+    21300044: AtaqueLobo_22
+    21300046: AtaqueLobo_23
+    21300048: AtaqueLobo_24
+    21300050: AtaqueLobo_25
+    21300052: AtaqueLobo_26
+    21300054: AtaqueLobo_27
+    21300056: AtaqueLobo_28
+    21300058: AtaqueLobo_29
+    21300060: AtaqueLobo_30
+    21300062: AtaqueLobo_31
+    21300064: AtaqueLobo_32
+    21300066: AtaqueLobo_33
+    21300068: AtaqueLobo_34
+    21300070: AtaqueLobo_35
+    21300072: AtaqueLobo_36
+    21300074: AtaqueLobo_37
+    21300076: AtaqueLobo_38
+    21300078: AtaqueLobo_39
+    21300080: AtaqueLobo_40
+    21300082: AtaqueLobo_41
+    21300084: AtaqueLobo_42
+    21300086: AtaqueLobo_43
+    21300088: AtaqueLobo_44
+    21300090: AtaqueLobo_45
+    21300092: AtaqueLobo_46
+    21300094: AtaqueLobo_47
+    21300096: AtaqueLobo_48
+    21300098: AtaqueLobo_49
+    21300100: AtaqueLobo_50
+    21300102: AtaqueLobo_51
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AtaqueLobo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1112
+        width: 369
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_2
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1112
+        width: 369
+        height: 287
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_3
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1112
+        width: 369
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_4
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1112
+        width: 369
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_5
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1112
+        width: 369
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_6
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1112
+        width: 369
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_7
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 1112
+        width: 369
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_8
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 1112
+        width: 369
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_9
+      rect:
+        serializedVersion: 2
+        x: 3997
+        y: 1112
+        width: 369
+        height: 287
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_10
+      rect:
+        serializedVersion: 2
+        x: 4420
+        y: 1112
+        width: 369
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_11
+      rect:
+        serializedVersion: 2
+        x: 4811
+        y: 1110
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 764
+        width: 369
+        height: 287
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_13
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 764
+        width: 369
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_14
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 745
+        width: 369
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_15
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 745
+        width: 369
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_16
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 746
+        width: 405
+        height: 317
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_17
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 746
+        width: 405
+        height: 317
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_18
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 745
+        width: 369
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_19
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 745
+        width: 369
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_20
+      rect:
+        serializedVersion: 2
+        x: 3997
+        y: 764
+        width: 369
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_21
+      rect:
+        serializedVersion: 2
+        x: 4420
+        y: 764
+        width: 369
+        height: 287
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 409
+        width: 405
+        height: 288
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 408
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 394
+        width: 449
+        height: 287
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_25
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 394
+        width: 452
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_26
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 394
+        width: 449
+        height: 286
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_27
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 380
+        width: 450
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_28
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 380
+        width: 450
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_29
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 394
+        width: 449
+        height: 286
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_30
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 394
+        width: 452
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_31
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 394
+        width: 449
+        height: 287
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_32
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 409
+        width: 405
+        height: 288
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_33
+      rect:
+        serializedVersion: 2
+        x: 4456
+        y: 408
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 67
+        width: 449
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 65
+        width: 449
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_36
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 67
+        width: 450
+        height: 285
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_37
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 65
+        width: 449
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_38
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 88
+        width: 407
+        height: 285
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_39
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 88
+        width: 407
+        height: 285
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_40
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 65
+        width: 449
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_41
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 67
+        width: 450
+        height: 285
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_42
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 65
+        width: 449
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_43
+      rect:
+        serializedVersion: 2
+        x: 4359
+        y: 67
+        width: 449
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_44
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 67
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_45
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 72
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_46
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 72
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_47
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 67
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_48
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 65
+        width: 28
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_49
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 65
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_50
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 65
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtaqueLobo_51
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 65
+        width: 28
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

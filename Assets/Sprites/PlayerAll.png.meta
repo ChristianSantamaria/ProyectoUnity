@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: fc50fbf0f3e01984c95723ab26c12796
+timeCreated: 1508513248
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerAll_0
+    21300002: PlayerAll_1
+    21300004: PlayerAll_2
+    21300006: PlayerAll_3
+    21300008: PlayerAll_4
+    21300010: PlayerAll_5
+    21300012: PlayerAll_6
+    21300014: PlayerAll_7
+    21300016: PlayerAll_8
+    21300018: PlayerAll_9
+    21300020: PlayerAll_10
+    21300022: PlayerAll_11
+    21300024: PlayerAll_12
+    21300026: PlayerAll_13
+    21300028: PlayerAll_14
+    21300030: PlayerAll_15
+    21300032: PlayerAll_16
+    21300034: PlayerAll_17
+    21300036: PlayerAll_18
+    21300038: PlayerAll_19
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerAll_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1104
+        width: 176
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerAll_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1104
+        width: 176
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerAll_2
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1109
+        width: 178
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerAll_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1109
+        width: 176
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerAll_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 633
+        width: 558
+        height: 406
+      alignment: 9
+      pivot: {x: 0.39254898, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerAll_5
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 632
+        width: 601
+        height: 407
+      alignment: 9
+      pivot: {x: 0.64410245, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerAll_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 196
+        width: 315
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerAll_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 195
+        width: 313
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerAll_8
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 252
+        width: 317
+        height: 265
+      alignment: 9
+      pivot: {x: 0.6891412, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerAll_9
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 337
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerAll_10
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 333
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerAll_11
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 248
+        width: 318
+        height: 265
+      alignment: 9
+      pivot: {x: 0.3042994, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerAll_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 132
+        width: 30
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerAll_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 131
+        width: 29
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
