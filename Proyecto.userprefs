@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scrips\Player.cs">
+    <Files>
+      <File FileName="Assets\Scrips\Player.cs" Line="119" Column="4" />
+      <File FileName="Assets\Scrips\Zombie.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scrips\VideoMuerte.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scrips\ZombieSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scrips\Dragones.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\christian\Documents\Proyecto\Assets\Scrips\PlayerAttack.cs" line="48" column="1" />
+      <Breakpoint file="C:\Users\christian\Documents\Proyecto\Assets\Scrips\PlayerAttack.cs" line="56" column="1" />
+      <Breakpoint file="C:\Users\christian\Desktop\Proyecto\Assets\Scrips\Zombie.cs" line="86" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
